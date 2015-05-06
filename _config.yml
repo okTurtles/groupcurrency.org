@@ -1,0 +1,9 @@
+# Site settings
+title: Group Currency
+tag_text: Group Currency
+description: Group Currency = Cryptocurrency + Basic Income
+
+# Build settings
+markdown: kramdown
+
+exclude: ["README.md"]

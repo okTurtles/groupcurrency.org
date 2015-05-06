@@ -1,0 +1,20 @@
+<script src="js/jquery-2.1.4.min.js" type="text/javascript"></script>
+<script>
+    $(document).ready(function() {
+        $('div.a').hide();
+        $('a.q').parent().addClass('answer').click(function (e) {
+            e.preventDefault();
+            $(this).next('div.a').toggle('fast');
+            return false;
+        });
+    });
+</script>
+<style>
+    .answer {
+        cursor: pointer;
+    }
+    .a {
+        margin-bottom: 1rem;
+        margin-top: 0;
+    }
+</style>
