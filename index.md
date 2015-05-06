@@ -21,6 +21,8 @@ In a sense, group currency is not a new concept. Traditional companies authentic
 
 __It is OK to think of group currencies as establishing more efficient, transparent, borderless, on-the-fly companies.__
 
+- __See Also: [Example Use Cases](<#Examples>)__
+
 ### Basic Income
 
 The authors consider the importance of a basic income to be [self-evident](http://www.reddit.com/r/basicincome/wiki/index), [ever](http://io9.com/how-universal-basic-income-will-save-us-from-the-robot-1653303459) [increasing](https://www.youtube.com/watch?v=7Pq-S557XQU) in necessity, and therefore integral to the functioning of any modern monetary system.
