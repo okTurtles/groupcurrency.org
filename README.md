@@ -13,9 +13,9 @@ A `group currency` ___(n)___ is a __[cryptocurrency](https://en.wikipedia.org/wi
 
 ## Contributing
 
-__This project uses [Jekyll](http://jekyllrb.com/) to generate the HTML from the `[index.md](index.md)` file!__
+__This project uses [Jekyll](http://jekyllrb.com/) to generate the HTML from the [`index.md`](index.md) file!__
 
-So if you want to translate this document, or update it, __please focus on `index.md`.__
+So if you want to translate this document, or update it, __please focus on [`index.md`](index.md).__
 
 ### More Info
 
