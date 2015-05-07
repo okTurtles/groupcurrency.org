@@ -146,9 +146,9 @@ It is when groups allow arbitrary membership that combating the Sybil attack bec
 
 - [Wikipedia on Sybil Attack](https://en.wikipedia.org/wiki/Sybil_attack#Prevention)
 - [TrustDavis](http://trustdavis.io)
-- [uCoin's Web-of-Trust system](http://ucoin.io/theoretical/)<sup style="font-size:70%">_[better link needed]_</sup>
+- uCoin's [Web-of-Trust system](https://github.com/ucoin-io/ucoin/issues/65)
+- [Dominic Williams](https://twitter.com/dominic_w) argues a network has Sybil resistance if there are [costs associated with joining the network, staying in the network, and leaving the network due to misbehavior](https://drive.google.com/file/d/0B9a1K-U2gZ2KN3pYSXF6bXF0QTg/view).
 - [BitVote's OnePerID](https://github.com/BitVote/bitvote.github.io/wiki/OnePerID)
-- [Dominic Williams](https://twitter.com/dominic_w) argues a network has Sybil resistance if there are costs associated with joining the network, staying in the network, and leaving the network due to misbehavior.<sup style="font-size:70%">_[link needed]_</sup>
 - Criminal punishment (i.e. same as counterfeiting).
 
 <a name="AppendixB"></a>
