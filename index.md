@@ -165,6 +165,7 @@ It is when groups allow arbitrary membership that combating the Sybil attack bec
 - [FairShare](https://fair-share.github.io/#/about)
 - [CIRCLES](https://forum.ethereum.org/discussion/1598/basic-income-circles-reputation-market-based-approach-to-solve-the-identity-problem-sybil-attacs)
 - [RESILIENCE protocol](http://www.resilience.me/sketch-resilience-protocol.html)
+- [Memorycoin](http://memorycoin.org/)
 
 <a name="AppendixC"></a>
 
