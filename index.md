@@ -7,7 +7,7 @@ layout: default
 A `group currency` ___(n)___ is a __[cryptocurrency](https://en.wikipedia.org/wiki/Cryptocurrency)__ that:
 
 1. provides its __[identified members](<#Sybil>)__ with
-2. a __[basic income](http://www.reddit.com/r/basicincome/wiki/index)__
+2. a __[basic income](<#BasicIncome>)__
 3. voting rights over a __[group fund](<#GroupFund>)__ _(optional)_
 4. and provides __[adequate means](https://en.wikipedia.org/wiki/Blockchain)__ for transparency and accountability.
 
@@ -23,9 +23,11 @@ __It is OK to think of group currencies as establishing more efficient, transpar
 
 - __See Also: [Example Use Cases](<#Examples>)__
 
+<a name="BasicIncome"></a>
+
 ### Basic Income
 
-The authors consider the importance of a basic income to be [self-evident](http://www.reddit.com/r/basicincome/wiki/index), [ever](http://io9.com/how-universal-basic-income-will-save-us-from-the-robot-1653303459) [increasing](https://www.youtube.com/watch?v=7Pq-S557XQU) in necessity, and therefore integral to the functioning of any modern monetary system.
+The authors consider the importance of a [basic income](http://www.reddit.com/r/basicincome/wiki/index) to be [self-evident](http://www.reddit.com/r/basicincome/wiki/index), [ever](http://io9.com/how-universal-basic-income-will-save-us-from-the-robot-1653303459) [increasing](https://www.youtube.com/watch?v=7Pq-S557XQU) in necessity, and therefore integral to the functioning of any modern monetary system.
 
 The members of a group currency all mint cryptographic tokens (coins, shares, what-have-you) at an equal rate. This rate may change, but it should approximate a [basic income](http://www.reddit.com/r/basicincome/wiki/index) for each group member.
 
@@ -97,6 +99,8 @@ __Any value-creation activity can now be easily financed without annoying your o
     <p>
         Say you visit a website selling <span style="color:#c00066; font-weight:bold">Pink Widgets</span> for <span style="color:#c00066; font-weight:bold">PinkCoins</span>. You only have <span style="color:darkgreen; font-weight:bold">TurtleCoins</span>. That doesn't matter because your <span style="color:darkgreen; font-weight:bold">TurtleCoins</span> can be quickly converted into <span style="color:#c00066; font-weight:bold">PinkCoins</span> on a decentralized exchange. The software can even show you prices only in terms of your <span style="color:darkgreen; font-weight:bold">TurtleCoins</span> so you don't have to think about <span style="color:#c00066; font-weight:bold">PinkCoins</span> (unless you want to).</p>
 </div>
+
+<a name="Implementations"></a>
 
 ## Implementations
 
