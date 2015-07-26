@@ -163,9 +163,10 @@ It is when groups allow arbitrary membership that combating the Sybil attack bec
 - [Colored Coins](https://en.bitcoin.it/wiki/Colored_Coins)
 - [Distributed Collaborative Organizations](https://swarm.fund)
 - [FairShare](https://fair-share.github.io/#/about)
-- [CIRCLES](https://forum.ethereum.org/discussion/1598/basic-income-circles-reputation-market-based-approach-to-solve-the-identity-problem-sybil-attacs)
+- [CIRCLES Universal Basic Income](https://ourbasicincome.wordpress.com/2015/06/18/circles-universal-basic-income/)
 - [RESILIENCE protocol](http://www.resilience.me/sketch-resilience-protocol.html)
 - [Memorycoin](http://memorycoin.org/)
+- [Community Currency](http://suddenplasma.weebly.com/uploads/2/5/9/7/25974272/community_cryptocurrency_issues_pre-pub.pdf)
 
 <a name="AppendixC"></a>
 
