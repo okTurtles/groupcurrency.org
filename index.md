@@ -107,6 +107,7 @@ __Any value-creation activity can now be easily financed without annoying your o
 Currencies that fit [the definition](<#definition>) of __group currency__:
 
 - [uCoin](http://ucoin.io/)
+- [Circles](http://aboutcircles.com/t/circles-universal-basic-income/19) (not yet implemented but should be very soon now that Ethereum has launched).
 - _Maybe_ [DCOs](https://swarm.fund)... Needs improvement in transparency, clarity, etc. They [claim to provide Basic Income](https://medium.com/@Swarm/beyond-basic-income-the-power-of-networks-putting-people-first-dbb97416d7a6) but it's not clear whether this is a firm goal or how it's enforced.
 
 _[Contact](<#contact>) or send [pull request](https://github.com/okTurtles/groupcurrency.org) to add yours!_
