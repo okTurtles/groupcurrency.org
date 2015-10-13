@@ -137,6 +137,7 @@ _Alphabetical by last name._
 
 ## Contact
 
+- **Visit Forums: [Group Currency](https://forums.okturtles.com/index.php?board=10.0)**
 - Tweet __[@GroupCurrency](https://twitter.com/GroupCurrency)__
 - Email `hi[at]okturtles[dot]com` _(replacing [at] with @ and [dot] with .)_
 
