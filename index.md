@@ -53,13 +53,13 @@ The purpose of a group fund is to provide the group with a means to invest in th
 
 ## Example Use Cases
 
-Group currencies can be used to monetize virtually anything of value, in fact they are perfectly suited for it.
+Group currencies can be used to monetize virtually anything of value; in fact they are perfectly suited for doing so.
 
 The inspiration for this idea came from a desire to make [pro-social value creation easier to achieve](http://www.propublica.org/article/the-worlds-email-encryption-software-relies-on-one-guy-who-is-going-broke) (without resorting to advertising, outside investment, or donations).
 
-- __Privacy conscious developers__ can finance their efforts by monetizing any activity their application facilitates. Developers of various applications can form a group and choose to accept their group's currency for arbitrary features. Want to send secure messages longer than X characters or to more than Y members? Z tokens will make that possible. Such mechanisms have the added benefit of protecting users from spam (it's cheap to message to your friends, but expensive to spam the world).
+- __Privacy-conscious developers__ can finance their efforts by monetizing any activity their application facilitates. Developers of various applications can form a group and choose to accept their group's currency for arbitrary features. Want to send secure messages longer than X characters or to more than Y members? Z tokens will make that possible. Such mechanisms have the added benefit of protecting users from spam (it's cheap to message to your friends, but expensive to spam the world).
 - __Student researchers or professors__ can finance their research by forming groups (across classrooms, departments, universities, etc.) and charging access to the value they create (research papers, their professional time, etc.).
-- __Game developers__ can finance the development of their next big hit by forming a group and accepting their group's currency for in-game assets. This model is already used via in-app purchases, but currently a middle-man takes a cut and their virtual "gems" cannot be exchanged for value outside the game.
+- __Game developers__ can finance the development of their next big hit by forming a group and accepting their group's currency for in-game assets. This model is already used via in-app purchases, but currently a middleman takes a cut and their virtual "gems" cannot be exchanged for value outside the game.
 - __A town, city, state or country__ can provide its community with a basic income that is backed by the value created by that community.
 
 __Any value-creation activity can now be easily financed without annoying your own customers with advertisements or betraying their privacy.__
@@ -87,7 +87,7 @@ __Any value-creation activity can now be easily financed without annoying your o
 
 <div class="a">
     <p>
-        Yes. Most newly formed groups will be unable to provide all their members with a basic income, so an individual may be able to accumulate a basic income for themselves by being accepted into multiple groups. In exchange for membership, most groups will likely expect their members to contribute value in some way, and most groups will likely be capable of booting members that they've decided are abusing the system.
+        Yes. Most newly formed groups will be unable to provide all their members with a basic income, so an individual may be able to accumulate a basic income for themselves by being accepted into multiple groups. In exchange for membership, most groups will likely expect their members to contribute value in some way, and most groups will likely be capable of booting members whom they've decided are abusing the system.
     </p>
 </div>
 
@@ -157,7 +157,7 @@ It is when groups allow arbitrary membership that combating the Sybil attack bec
 - uCoin's [Web-of-Trust system](https://github.com/ucoin-io/ucoin/issues/65)
 - [Dominic Williams](https://twitter.com/dominic_w) argues a network has Sybil resistance if there are [costs associated with joining the network, staying in the network, and leaving the network due to misbehavior](https://drive.google.com/file/d/0B9a1K-U2gZ2KN3pYSXF6bXF0QTg/view).
 - [BitVote's OnePerID](https://github.com/BitVote/bitvote.github.io/wiki/OnePerID)
-- Criminal punishment (i.e. same as counterfeiting).
+- Criminal punishment (i.e. same as counterfeiting)
 
 <a name="AppendixB"></a>
 
@@ -168,7 +168,8 @@ It is when groups allow arbitrary membership that combating the Sybil attack bec
 - [FairShare](https://fair-share.github.io/#/about)
 - [CIRCLES Universal Basic Income](https://ourbasicincome.wordpress.com/2015/06/18/circles-universal-basic-income/)
 - [RESILIENCE protocol](http://www.resilience.me/sketch-resilience-protocol.html)
-- [Memorycoin](http://memorycoin.org/)
+- [Memorycoin](https://web.archive.org/web/20150416075255/http://memorycoin.org/)
+<!-- previously https://memorycoin.org, now dead?)
 - [Community Currency](http://suddenplasma.weebly.com/uploads/2/5/9/7/25974272/community_cryptocurrency_issues_pre-pub.pdf)
 
 <a name="AppendixC"></a>
