@@ -168,8 +168,7 @@ It is when groups allow arbitrary membership that combating the Sybil attack bec
 - [FairShare](https://fair-share.github.io/#/about)
 - [CIRCLES Universal Basic Income](https://ourbasicincome.wordpress.com/2015/06/18/circles-universal-basic-income/)
 - [RESILIENCE protocol](http://www.resilience.me/sketch-resilience-protocol.html)
-- [Memorycoin](https://web.archive.org/web/20150416075255/http://memorycoin.org/)
-<!-- previously https://memorycoin.org, now dead?)
+- [Memorycoin](https://web.archive.org/web/20150416075255/http://memorycoin.org/) <!-- previously https://memorycoin.org, now dead?) -->
 - [Community Currency](http://suddenplasma.weebly.com/uploads/2/5/9/7/25974272/community_cryptocurrency_issues_pre-pub.pdf)
 
 <a name="AppendixC"></a>
