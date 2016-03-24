@@ -1,6 +1,9 @@
 <script src="js/jquery-2.1.4.min.js" type="text/javascript"></script>
 <script>
     $(document).ready(function() {
+        $("body.no-js").removeClass("no-js");
+    });
+    $(document).ready(function() {
         $('div.a').hide();
         $('a.q').parent().addClass('answer').click(function (e) {
             e.preventDefault();
