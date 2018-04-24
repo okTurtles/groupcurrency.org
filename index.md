@@ -158,6 +158,7 @@ It is when groups allow arbitrary membership that combating the Sybil attack bec
 - [Dominic Williams](https://twitter.com/dominic_w) argues a network has Sybil resistance if there are [costs associated with joining the network, staying in the network, and leaving the network due to misbehavior](https://drive.google.com/file/d/0B9a1K-U2gZ2KN3pYSXF6bXF0QTg/view).
 - [BitVote's OnePerID](https://github.com/BitVote/bitvote.github.io/wiki/OnePerID)
 - Criminal punishment (i.e. same as counterfeiting)
+- [UBIC](https://github.com/UBIC-repo/Whitepaper/blob/master/README.md) uses the NFC capabilities of the E-Passport to provide Sybil resistance.
 
 <a name="AppendixB"></a>
 
