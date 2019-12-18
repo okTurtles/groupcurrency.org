@@ -109,6 +109,7 @@ Currencies that fit [the definition](<#definition>) of __group currency__:
 - [Duniter](https://duniter.org/) (previously [uCoin](https://en.duniter.org/ucoin-rename-duniter/))
 - [Circles](http://aboutcircles.com/) (not yet implemented but should be very soon now that Ethereum has launched).
 - _Maybe_ [DCOs](https://swarm.fund)... Needs improvement in transparency, clarity, etc. They [claim to provide Basic Income](https://medium.com/@Swarm/beyond-basic-income-the-power-of-networks-putting-people-first-dbb97416d7a6) but it's not clear whether this is a firm goal or how it's enforced.
+- [Encointer.org](https://encointer.org) decentralized basic income in geo-local cryptocurrency 
 
 _[Contact](<#contact>) or send [pull request](https://github.com/okTurtles/groupcurrency.org) to add yours!_
 
@@ -159,6 +160,7 @@ It is when groups allow arbitrary membership that combating the Sybil attack bec
 - [BitVote's OnePerID](https://github.com/BitVote/bitvote.github.io/wiki/OnePerID)
 - Criminal punishment (i.e. same as counterfeiting)
 - [UBIC](https://github.com/UBIC-repo/Whitepaper/blob/master/README.md) uses the NFC capabilities of the E-Passport to provide Sybil resistance.
+- [Encointer.org](https://encointer.org) mitigates sybil attack with physical concurrent key signing events (one can only be in one place at one time)
 
 <a name="AppendixB"></a>
 
